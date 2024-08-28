@@ -17,7 +17,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
 ### [*4. Microcontrolador: Raspberry Pi Pico W*](<Controlador (Raspberry Pi Pico W)>)
    - *[[Puertos GPIO]]:* Conectados a los sensores, la celda Peltier (a través de un módulo PWM) y los ventiladores.
 
-### *[5. Interfaz de Usuario:*](<interfaz de usuario>)
+### [*5. Interfaz de Usuario:*](<interfaz de usuario>)
    - *Pantalla LCD o OLED:* Conectada a la Raspberry Pi Pico W para mostrar temperatura, humedad y luz.
    - *Botones de Control:* Para ajustar las configuraciones desde la propia cava.
    - *Alarmas:* Visuales y/o sonoras en caso de que la temperatura o la humedad estén fuera de los límites.

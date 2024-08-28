@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driver/Driver.md",
+                "file": "Cava de vinos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Driver/Driver.md",
+                "file": "Cava de vinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Driver/Driver.md",
+                "file": "Cava de vinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Driver/Driver.md"
+                "file": "Cava de vinos.md"
               }
             }
           }
@@ -162,18 +162,18 @@
   },
   "active": "455c0ad2c852b36b",
   "lastOpenFiles": [
-    "Precios.md",
+    "interfaz.md",
     "Cava de vinos.md",
+    "Driver/Driver.md",
+    "Precios.md",
     "Controlador/Interfaz de usuario.md",
     "Variables y elementos a controlar/Variables a controlar.md",
     "Diagrama.canvas",
     "Controlador/Código.md",
     "Controlador/Puertos GPIO.md",
     "Controlador/Controlador (Raspberry Pi Pico W).md",
-    "Driver/Driver.md",
     "Enlace con PC/Conexión a PC.md",
     "Acondicionamiento/Acondicionamiento.md",
-    "interfaz.md",
     "Cava de vinos.pptx",
     "Cava de vinos.pdf",
     "Cava de vinos.synctex(busy)",
