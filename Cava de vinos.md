@@ -29,7 +29,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *Fuente de 12V DC:* Para la celda Peltier, ventiladores y lampara.
    - *Fuente de 5V:* Para la Raspberry Pi Pico W y los sensores.
 
-### [*8. Conexión a PC:*](Conexión a PC)
+### [*8. Conexión a PC:*](<Conexión a PC>)
    - *USB:* La Raspberry Pi Pico W se conecta a la PC a través de un cable USB, lo que permite la programación, monitoreo, y control de la cava desde la PC.
    - *Software:* Utiliza software programado en C para ver los datos en tiempo real.
    - *Conectividad Wi-Fi:* Alternativamente, puedes controlar la cava de manera remota usando Wi-Fi, enviando datos a la PC o a un servidor.
