@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cava de vinos.md",
+                "file": "Precios.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cava de vinos.md",
+                "file": "Precios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cava de vinos.md",
+                "file": "Precios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cava de vinos.md"
+                "file": "Precios.md"
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "455c0ad2c852b36b",
   "lastOpenFiles": [
-    "interfaz.md",
+    "Diagrama.canvas",
     "Cava de vinos.md",
+    "interfaz.md",
     "Driver/Driver.md",
     "Precios.md",
     "Controlador/Interfaz de usuario.md",
     "Variables y elementos a controlar/Variables a controlar.md",
-    "Diagrama.canvas",
     "Controlador/Código.md",
     "Controlador/Puertos GPIO.md",
     "Controlador/Controlador (Raspberry Pi Pico W).md",

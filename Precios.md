@@ -9,7 +9,7 @@
 | Madera para maqueta |                | 1        |                 |              |
 | Vidrio              |                | 1        |                 |              |
 | Pantalla LCD        |                | 1        |                 |              |
-| Hr202               |                |          |                 |              |
+|                     |                |          |                 |              |
 |                     |                |          |                 |              |
 |                     |                |          |                 |              |
 | Total               |                |          |                 |              |
