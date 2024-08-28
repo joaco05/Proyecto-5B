@@ -6,9 +6,9 @@
 		{"id":"23f24b19578a8007","type":"file","file":"Controlador/Controlador (Raspberry Pi Pico W).md","x":-400,"y":-160,"width":520,"height":520},
 		{"id":"1a3c1f276287e6d2","type":"file","file":"Enlace con PC/Conexión a PC.md","x":280,"y":-140,"width":780,"height":480},
 		{"id":"58574ead5d975ee0","type":"file","file":"Acondicionamiento/Acondicionamiento.md","x":-1390,"y":-800,"width":710,"height":760},
-		{"id":"e9b62c77e6fb9803","type":"text","text":"   - *Sensor de Temperatura (Digital):* DS18B20, para lectura precisa de la temperatura.\n   - *Sensor de Humedad (Analógico):* HR202, conectado a una entrada analógica para monitorear la humedad.\n   - *Sensor de Luz (Analógico):* LDR, conectado a una entrada analógica para medir la intensidad de la luz.","x":-1390,"y":100,"width":730,"height":440},
+		{"id":"e9b62c77e6fb9803","type":"text","text":"   - *Sensor de Temperatura y humedad (Digital):* DHT11, para lectura precisa de la temperatura y humedad.\n   - *Sensor de Luz (Analógico):* LDR, conectado a una entrada analógica para medir la intensidad de la luz.\n   - *Sensor de alcohol (Analógico)*: MQ3, para detección de botellas mal cerradas.","x":-1390,"y":100,"width":730,"height":440},
 		{"id":"24a28a2fd24f533e","type":"file","file":"Variables y elementos a controlar/Variables a controlar.md","x":-1235,"y":640,"width":400,"height":400},
-		{"id":"21c907c5ca6cdb4a","x":200,"y":-920,"width":670,"height":400,"type":"file","file":"Cava de vinos.md"}
+		{"id":"21c907c5ca6cdb4a","type":"file","file":"Cava de vinos.md","x":335,"y":-1040,"width":670,"height":400}
 	],
 	"edges":[
 		{"id":"24c3e341793927af","fromNode":"23f24b19578a8007","fromSide":"bottom","toNode":"af1a64eadc3e6c13","toSide":"top"},

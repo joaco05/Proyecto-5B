@@ -1,5 +1,5 @@
-   - *DS18B20:* Conectado a un pin GPIO digital (Protocolo ONE-WIRE).
-   - *HR202:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de humedad.
+   - *DHT11:* Conectado a un pin GPIO digital para leer humedad y temperatura.
+   - *MQ3:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de alcohol.
    - *LDR:* Conectado a otro pin ADC para la intensidad de luz.
    - *Celda Peltier y Ventiladores:* Conectados a través de un módulo PWM y transistores para el control de velocidad.
    - *Pantalla 7 segmentos:* Conectada a través de GPIO.

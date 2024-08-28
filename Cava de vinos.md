@@ -10,9 +10,9 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *Controlador PWM:* Regulador de potencia para la celda Peltier, controlado por la Raspberry Pi Pico W.
 
 ### [*3. Sensores:*](Acondicionamiento)
-   - *Sensor de Temperatura (Digital):* DS18B20, para lectura precisa de la temperatura.
-   - *Sensor de Humedad (Analógico):* HR202, conectado a una entrada analógica para monitorear la humedad.
+   - *Sensor de Temperatura y humedad (Digital):* DHT11, para lectura precisa de la temperatura y humedad.
    - *Sensor de Luz (Analógico):* LDR, conectado a una entrada analógica para medir la intensidad de la luz.
+   - *Sensor de alcohol (Analógico)*: MQ3, para detección de botellas mal cerradas.
 
 ### [*4. Microcontrolador: Raspberry Pi Pico W*](<Controlador (Raspberry Pi Pico W)>)
    - *[[Puertos GPIO]]:* Conectados a los sensores, la celda Peltier (a través de un módulo PWM) y los ventiladores.
@@ -38,8 +38,8 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
 ### *Esquema de Conexión:*
 
 1. *Raspberry Pi Pico W:*
-   - *DS18B20:* Conectado a un pin GPIO digital.
-   - *HR202:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de humedad.
+   - *DHT11:* Conectado a un pin GPIO digital para leer humedad y temperatura.
+   - *MQ3:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de alcohol.
    - *LDR:* Conectado a otro pin ADC para la intensidad de luz.
    - *Celda Peltier y Ventiladores:* Conectados a través de un módulo PWM y transistores para el control de velocidad.
    - *Pantalla 7 segmentos:* Conectada a través de GPIO.
