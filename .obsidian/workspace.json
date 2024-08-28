@@ -11,14 +11,11 @@
             "id": "73fbe3dbf5167b2c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diagrama.canvas",
-                "viewState": {
-                  "x": -108.7877617955582,
-                  "y": 185.77250007698393,
-                  "zoom": -1.369546115120102
-                }
+                "file": "Cava de vinos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrama.canvas",
+                "file": "Cava de vinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrama.canvas",
+                "file": "Cava de vinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrama.canvas"
+                "file": "Cava de vinos.md"
               }
             }
           }
@@ -164,9 +161,10 @@
   },
   "active": "73fbe3dbf5167b2c",
   "lastOpenFiles": [
+    "Enlace con PC/Conexión a PC.md",
+    "Diagrama.canvas",
     "Cava de vinos.md",
     "Precios.md",
-    "Diagrama.canvas",
     "Acondicionamiento/Acondicionamiento.md",
     "Controlador/Interfaz de usuario.md",
     "interfaz.md",
@@ -175,7 +173,6 @@
     "Controlador/Código.md",
     "Controlador/Puertos GPIO.md",
     "Controlador/Controlador (Raspberry Pi Pico W).md",
-    "Enlace con PC/Conexión a PC.md",
     "Cava de vinos.pptx",
     "Cava de vinos.pdf",
     "Cava de vinos.synctex(busy)",

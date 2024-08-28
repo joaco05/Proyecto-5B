@@ -34,7 +34,8 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *Software:* Utiliza software programado en C para ver los datos en tiempo real.
 
 ### *9. Adicionales:*
-- Humificador/deshumidificador
+- *Humificador/deshumidificador:* Para control de humedad dentro del sistema.
+- Uso portátil.
 ### *Esquema de Conexión:*
 
 1. *Raspberry Pi Pico W:*

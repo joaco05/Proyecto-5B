@@ -1,3 +1,4 @@
 - Temperatura
-- Humedad
+- Humedad (opcional)
 - Luz
+- Alcohol
