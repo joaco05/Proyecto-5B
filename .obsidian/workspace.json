@@ -15,8 +15,8 @@
               "state": {
                 "file": "Diagrama.canvas",
                 "viewState": {
-                  "x": -290.4709010889477,
-                  "y": -2.8942663132357325,
+                  "x": -108.7877617955582,
+                  "y": 185.77250007698393,
                   "zoom": -1.369546115120102
                 }
               }
@@ -165,10 +165,10 @@
   "active": "73fbe3dbf5167b2c",
   "lastOpenFiles": [
     "Cava de vinos.md",
-    "Acondicionamiento/Acondicionamiento.md",
     "Precios.md",
-    "Controlador/Interfaz de usuario.md",
     "Diagrama.canvas",
+    "Acondicionamiento/Acondicionamiento.md",
+    "Controlador/Interfaz de usuario.md",
     "interfaz.md",
     "Driver/Driver.md",
     "Variables y elementos a controlar/Variables a controlar.md",
