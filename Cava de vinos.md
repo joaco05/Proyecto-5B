@@ -18,7 +18,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *[[Puertos GPIO]]:* Conectados a los sensores, la celda Peltier (a través de un módulo PWM) y los ventiladores.
 
 ### [*5. Interfaz de Usuario:*](<interfaz de usuario>)
-   - *Pantalla LCD o OLED:* Conectada a la Raspberry Pi Pico W para mostrar temperatura, humedad y luz.
+   - *7 segmentos:* Conectada a la Raspberry Pi Pico W para mostrar temperatura.
    - *Botones de Control:* Para ajustar las configuraciones desde la propia cava.
    - *Alarmas:* Visuales y/o sonoras en caso de que la temperatura o la humedad estén fuera de los límites.
 
@@ -32,7 +32,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
 ### [*8. Conexión a PC:*](<Conexión a PC>)
    - *USB:* La Raspberry Pi Pico W se conecta a la PC a través de un cable USB, lo que permite la programación, monitoreo, y control de la cava desde la PC.
    - *Software:* Utiliza software programado en C para ver los datos en tiempo real.
-   - *Conectividad Wi-Fi:* Alternativamente, puedes controlar la cava de manera remota usando Wi-Fi, enviando datos a la PC o a un servidor.
+
 ### *9. Adicionales:*
 - Humificador/deshumidificador
 ### *Esquema de Conexión:*
@@ -42,7 +42,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *HR202:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de humedad.
    - *LDR:* Conectado a otro pin ADC para la intensidad de luz.
    - *Celda Peltier y Ventiladores:* Conectados a través de un módulo PWM y transistores para el control de velocidad.
-   - *Pantalla LCD/OLED:* Conectada a través de I2C o SPI.
+   - *Pantalla 7 segmentos:* Conectada a través de GPIO.
    - *Botones:* Conectados a pines GPIO para la interacción con el usuario.
 
 2. *Conexión a PC:*

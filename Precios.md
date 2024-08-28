@@ -8,7 +8,7 @@
 | Celda peltier       |                | 1        | 7.718           |              |
 | Madera para maqueta |                | 1        |                 |              |
 | Vidrio              |                | 1        |                 |              |
-| Pantalla LCD        |                | 1        |                 |              |
+| 7 segmentos         |                | 1        |                 |              |
 |                     |                |          |                 |              |
 |                     |                |          |                 |              |
 |                     |                |          |                 |              |
