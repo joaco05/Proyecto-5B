@@ -1,0 +1,3 @@
+- Temperatura
+- Humedad
+- Luz

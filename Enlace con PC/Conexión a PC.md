@@ -1,0 +1,3 @@
+- El usuario podrá configurar alarmas digitales con el objetivo, de anunciar luego de que un vino se estaciona.
+- El usuario podrá elegir entre distintas configuraciones precargadas de vinos.
+- El usuario será informado a tiempo real por registros en un archivo, los datos medidos.

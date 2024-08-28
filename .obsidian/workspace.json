@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "f0d72ece9178ef4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5cff4b6e1500675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73fbe3dbf5167b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cava de vinos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "455c0ad2c852b36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Driver/Driver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2e327a13e87563e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee4063061f1768f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1c08706cc077f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "287f06658b4ffb0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "855fe50cea8c7d42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b8cabda90a84666",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd4500b101d7304e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290338b16e6a91cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Driver/Driver.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4476fb8caaf15dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Driver/Driver.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "972c4df1a7780055",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79c5452dbc9340e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Driver/Driver.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 533.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "455c0ad2c852b36b",
+  "lastOpenFiles": [
+    "Precios.md",
+    "Cava de vinos.md",
+    "Controlador/Interfaz de usuario.md",
+    "Variables y elementos a controlar/Variables a controlar.md",
+    "Diagrama.canvas",
+    "Controlador/Código.md",
+    "Controlador/Puertos GPIO.md",
+    "Controlador/Controlador (Raspberry Pi Pico W).md",
+    "Driver/Driver.md",
+    "Enlace con PC/Conexión a PC.md",
+    "Acondicionamiento/Acondicionamiento.md",
+    "interfaz.md",
+    "Cava de vinos.pptx",
+    "Cava de vinos.pdf",
+    "Cava de vinos.synctex(busy)",
+    "Cava de vinos.fls",
+    "Cava de vinos.synctex.gz",
+    "Cava de vinos.log",
+    "Cava de vinos.fdb_latexmk",
+    "Cava de vinos.aux",
+    "Cava de vinos.tex",
+    "Acondicionamiento/Acondicionamiento.html",
+    "Variables.md",
+    "[[Variables.md",
+    "2024-08-27.md",
+    "Estructura de la Cava.md",
+    "1.Estructura de la Cava.md",
+    "Sin título/Sin título.canvas"
+  ]
+}

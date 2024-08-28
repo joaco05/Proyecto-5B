@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"0368ebf1a2db826a","type":"file","file":"Controlador/Interfaz de usuario.md","x":-360,"y":-720,"width":440,"height":400},
+		{"id":"af1a64eadc3e6c13","type":"file","file":"Driver/Driver.md","x":-360,"y":440,"width":440,"height":400},
+		{"id":"06a8cff6baf5fcf0","type":"text","text":"Celda Peltier con ventiladores","x":-680,"y":610,"width":250,"height":60},
+		{"id":"23f24b19578a8007","type":"file","file":"Controlador/Controlador (Raspberry Pi Pico W).md","x":-400,"y":-160,"width":520,"height":520},
+		{"id":"1a3c1f276287e6d2","type":"file","file":"Enlace con PC/Conexión a PC.md","x":280,"y":-140,"width":780,"height":480},
+		{"id":"58574ead5d975ee0","type":"file","file":"Acondicionamiento/Acondicionamiento.md","x":-1390,"y":-800,"width":710,"height":760},
+		{"id":"e9b62c77e6fb9803","type":"text","text":"   - *Sensor de Temperatura (Digital):* DS18B20, para lectura precisa de la temperatura.\n   - *Sensor de Humedad (Analógico):* HR202, conectado a una entrada analógica para monitorear la humedad.\n   - *Sensor de Luz (Analógico):* LDR, conectado a una entrada analógica para medir la intensidad de la luz.","x":-1390,"y":100,"width":730,"height":440},
+		{"id":"24a28a2fd24f533e","type":"file","file":"Variables y elementos a controlar/Variables a controlar.md","x":-1235,"y":640,"width":400,"height":400},
+		{"id":"21c907c5ca6cdb4a","x":200,"y":-920,"width":670,"height":400,"type":"file","file":"Cava de vinos.md"}
+	],
+	"edges":[
+		{"id":"24c3e341793927af","fromNode":"23f24b19578a8007","fromSide":"bottom","toNode":"af1a64eadc3e6c13","toSide":"top"},
+		{"id":"f6b389e873f2dfed","fromNode":"58574ead5d975ee0","fromSide":"right","toNode":"23f24b19578a8007","toSide":"left"},
+		{"id":"1da7eca1497e47b4","fromNode":"23f24b19578a8007","fromSide":"right","toNode":"1a3c1f276287e6d2","toSide":"left"},
+		{"id":"171f896c6d8b2ff4","fromNode":"23f24b19578a8007","fromSide":"top","toNode":"0368ebf1a2db826a","toSide":"bottom"},
+		{"id":"d64bf629ad533a8e","fromNode":"24a28a2fd24f533e","fromSide":"top","toNode":"e9b62c77e6fb9803","toSide":"bottom"},
+		{"id":"9665dc3b160f301e","fromNode":"e9b62c77e6fb9803","fromSide":"top","toNode":"58574ead5d975ee0","toSide":"bottom"},
+		{"id":"bdbb2800c544ee0b","fromNode":"af1a64eadc3e6c13","fromSide":"left","toNode":"06a8cff6baf5fcf0","toSide":"right"},
+		{"id":"c8dee93e92a3d677","fromNode":"06a8cff6baf5fcf0","fromSide":"left","toNode":"24a28a2fd24f533e","toSide":"right"}
+	]
+}

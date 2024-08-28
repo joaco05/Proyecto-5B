@@ -1,0 +1,2 @@
+- *Pantalla LCD/OLED:* Conectada a través de I2C o SPI.
+- *Botones:* Conectados a pines GPIO para la interacción con el usuario.

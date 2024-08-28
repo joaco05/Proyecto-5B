@@ -1,0 +1,6 @@
+   - *DS18B20:* Conectado a un pin GPIO digital (Protocolo ONE-WIRE).
+   - *HR202:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de humedad.
+   - *LDR:* Conectado a otro pin ADC para la intensidad de luz.
+   - *Celda Peltier y Ventiladores:* Conectados a través de un módulo PWM y transistores para el control de velocidad.
+   - *Pantalla LCD/OLED:* Conectada a través de I2C o SPI.
+   - *Botones:* Conectados a pines GPIO para la interacción con el usuario.
