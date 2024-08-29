@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precios.md",
+                "file": "Enlace con PC/Conexión a PC.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precios.md",
+                "file": "Enlace con PC/Conexión a PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precios.md",
+                "file": "Enlace con PC/Conexión a PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precios.md"
+                "file": "Enlace con PC/Conexión a PC.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5,
-    "collapsed": true
+    "width": 533.5
   },
   "left-ribbon": {
     "hiddenItems": {
