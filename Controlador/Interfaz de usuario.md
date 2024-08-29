@@ -1,2 +1,2 @@
-- 7 segmentos: Conectada a través de GPIO.
+- *7 segmentos:* Conectada a través de GPIO.
 - *Botones:* Conectados a pines GPIO para la interacción con el usuario.
