@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlace con PC/Conexión a PC.md",
+                "file": "Cava de vinos.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlace con PC/Conexión a PC.md",
+                "file": "Cava de vinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlace con PC/Conexión a PC.md",
+                "file": "Cava de vinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlace con PC/Conexión a PC.md"
+                "file": "Cava de vinos.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 533.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "73fbe3dbf5167b2c",
+  "active": "79c5452dbc9340e8",
   "lastOpenFiles": [
-    "Cava de vinos.md",
-    "Diagrama.canvas",
     "Precios.md",
     "Enlace con PC/Conexión a PC.md",
+    "Cava de vinos.md",
+    "Diagrama.canvas",
     "Acondicionamiento/Acondicionamiento.md",
     "Controlador/Interfaz de usuario.md",
     "interfaz.md",

@@ -33,7 +33,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
 - *Cable USB:* Desde la Raspberry Pi Pico W a la PC para la alimentación, programación, y comunicación (Utilizando un Bridge UART).
 
 ### *9. Adicionales:*
-- *Humificador/deshumidificador:* Para control de humedad dentro del sistema.
+- *Humidificador/deshumidificador:* Para control de humedad dentro del sistema.
 - Uso portátil con Wi-Fi o RF.
 - Sellado hermético y aislamiento.
 ### *Esquema de Conexión:*
