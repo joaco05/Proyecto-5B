@@ -11,14 +11,11 @@
             "id": "73fbe3dbf5167b2c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diagrama.canvas",
-                "viewState": {
-                  "x": -191,
-                  "y": 170,
-                  "zoom": -1.3998461553959891
-                }
+                "file": "Cava de vinos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrama.canvas",
+                "file": "Cava de vinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrama.canvas",
+                "file": "Cava de vinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrama.canvas"
+                "file": "Cava de vinos.md"
               }
             }
           }
@@ -164,10 +161,10 @@
   },
   "active": "73fbe3dbf5167b2c",
   "lastOpenFiles": [
+    "Diagrama.canvas",
     "Cava de vinos.md",
     "Precios.md",
     "Enlace con PC/Conexión a PC.md",
-    "Diagrama.canvas",
     "Acondicionamiento/Acondicionamiento.md",
     "Controlador/Interfaz de usuario.md",
     "interfaz.md",

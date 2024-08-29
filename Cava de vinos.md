@@ -30,15 +30,15 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *Fuente de 5V:* Para la Raspberry Pi Pico W y los sensores.
 
 ### [*8. Conexión a PC:*](<Conexión a PC>)
-   - *USB:* La Raspberry Pi Pico W se conecta a la PC a través de un cable USB, lo que permite la programación, monitoreo, y control de la cava desde la PC.
-   - *Software:* Utiliza software programado en C para ver los datos en tiempo real.
+- *Cable USB:* Desde la Raspberry Pi Pico W a la PC para la alimentación, programación, y comunicación (Utilizando un Bridge UART).
 
 ### *9. Adicionales:*
 - *Humificador/deshumidificador:* Para control de humedad dentro del sistema.
-- Uso portátil.
+- Uso portátil con Wi-Fi o RF.
+- Sellado hermético y aislamiento.
 ### *Esquema de Conexión:*
 
-1. *Raspberry Pi Pico W:*
+*Raspberry Pi Pico W:*
    - *DHT11:* Conectado a un pin GPIO digital para leer humedad y temperatura.
    - *MQ3:* Conectado a un ADC (convertidor analógico a digital) para leer los valores de alcohol.
    - *LDR:* Conectado a otro pin ADC para la intensidad de luz.
@@ -46,8 +46,7 @@ Diseño para una cava de vinos que utiliza una Raspberry Pi Pico W como microcon
    - *Pantalla 7 segmentos:* Conectada a través de GPIO.
    - *Botones:* Conectados a pines GPIO para la interacción con el usuario.
 
-2. *Conexión a PC:*
-   - *Cable USB:* Desde la Raspberry Pi Pico W a la PC para la alimentación, programación, y comunicación (Utilizando un Bridge UART).
+
 
 ### [*Código para la Raspberry Pi Pico W:*](Código)
 El código incluirá:
